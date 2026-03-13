@@ -1,54 +1,81 @@
-# Radon-Tos
-Terms of Service for Radon
+# Prime™ – Terms and Conditions
 
-Last Updated: 11-02-2025
+**Last Updated:** March 13, 2026
 
-By inviting or using Radon (“the Bot”) in a Discord server, you agree to the following Terms of Service. If you do not agree, please do not use the Bot.
+Welcome to **Prime™**, a Discord bot designed to enhance server management through moderation, security, and utility features. By inviting or using Prime™ in your Discord server, you agree to the following Terms and Conditions.
 
-1. Acceptance of Terms
+## 1. Acceptance of Terms
 
-By adding or using Radon, you confirm that you have read, understood, and agreed to these Terms. Continued use of the Bot means continued acceptance.
+By adding or using Prime™ in any Discord server, you confirm that you have read, understood, and agreed to these Terms. If you do not agree with any part of these terms, you must remove Prime™ from your server.
 
-2. Description of Service
+## 2. Usage Requirements
 
-Radon provides various Discord features such as moderation, utility, and other automated services. Features may be added, changed, or removed at any time without notice.
+To use Prime™, you must:
 
-3. User Responsibilities
+* Follow Discord’s Terms of Service and Community Guidelines.
+* Not use the bot for illegal, abusive, or harmful activities.
+* Not attempt to exploit, reverse engineer, or disrupt the bot's functionality.
 
-You must comply with Discord’s Terms of Service and Community Guidelines.
+## 3. Data Collection
 
-You may not use Radon for illegal, abusive, harmful, or malicious purposes.
+Prime™ may store limited data required for functionality, such as:
 
-You may not attempt to exploit, spam, disrupt, or reverse-engineer the Bot.
+* Server IDs
+* User IDs
+* Role configurations
+* Moderation logs
+* Bot settings
 
-4. Data Collection & Privacy
+This data is stored only to ensure the bot operates properly within servers.
 
-Radon may collect limited data (such as user IDs, server IDs, or command usage) strictly required for functionality.
+## 4. Data Usage
 
-Radon does not sell or share user data with third parties.
+Stored data is used strictly for:
 
-Data may be stored as long as necessary for the Bot to function.
+* Bot configuration
+* Moderation and security features
+* Server management functions
 
-Users may request data deletion by contacting the developer.
+Prime™ does **not sell or share user data** with third parties.
 
-5. Availability
+## 5. Availability
 
-Radon is provided “as is” with no guarantee of uptime or reliability.
+While we strive to keep Prime™ online and operational, we do not guarantee:
 
-The Bot may go offline for maintenance, updates, or unexpected issues.
+* 100% uptime
+* uninterrupted service
+* error-free performance
 
-6. Termination
+The bot may undergo maintenance, updates, or downtime at any time.
 
-The developer reserves the right to block any user or server from using Radon at any time, without notice, if these Terms are violated.
+## 6. Liability
 
-7. Limitation of Liability
+The developers of Prime™ are **not responsible for**:
 
-The developer is not responsible for any damage, loss, or issues caused by the use or inability to use Radon.
+* damages caused by misuse of the bot
+* server misconfiguration
+* moderation actions performed using the bot
 
-8. Changes to Terms
+Server administrators are responsible for how they configure and use Prime™.
 
-These Terms may be updated at any time. Continued use of Radon after updates means acceptance of the revised Terms.
+## 7. Termination of Access
 
-9. Contact
+We reserve the right to:
 
-For support, questions, or data-related requests, please contact the developer or join the official support server.
+* restrict access
+* blacklist users or servers
+* remove functionality
+
+if the bot is abused, exploited, or used in violation of these Terms.
+
+## 8. Changes to Terms
+
+These Terms and Conditions may be updated at any time. Continued use of Prime™ after updates means you accept the revised terms.
+
+## 9. Contact
+
+If you have questions or concerns regarding these Terms, please contact the Prime™ support team through the official support server.
+
+---
+
+© 2026 Prime™. All rights reserved.
